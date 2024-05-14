@@ -34,7 +34,7 @@ highlight_code = true
 # Put all your custom variables here
 
 # anemone
-favicon = "favicon.ico"
+favicon = "icon.ico"
 image = ""
 list_pages = false
 twitter_card = true
