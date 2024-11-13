@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title>Zhang Jing&#x27;s Blog</title>
+    <link href="https://zhangakira.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://zhangakira.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-13T00:00:00+00:00</updated>
+    <id>https://zhangakira.github.io/atom.xml</id>
+    <entry xml:lang="zh-CN">
+        <title>更换博客主题</title>
+        <published>2024-11-13T00:00:00+00:00</published>
+        <updated>2024-11-13T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/blog/2024-11-13-geng-huan-bo-ke-zhu-ti/" type="text/html"/>
+        <id>https://zhangakira.github.io/blog/2024-11-13-geng-huan-bo-ke-zhu-ti/</id>
+        
+        <content type="html">&lt;p&gt;添加：&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;git submodule add https:&#x2F;&#x2F;github.com&#x2F;wjianbo&#x2F;zola-theme-monochrome.git themes&#x2F;monochrome
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;修改 &lt;code&gt;config.toml&lt;&#x2F;code&gt;：&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;theme = &amp;quot;monochrome&amp;quot;
+&lt;&#x2F;span&gt;&lt;span&gt;default_language = &amp;quot;zh-CN&amp;quot;
+&lt;&#x2F;span&gt;&lt;span&gt;build_search_index = false
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title></title>
+        <published>2024-07-10T00:00:00+00:00</published>
+        <updated>2024-07-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/journal/2024-07-10/" type="text/html"/>
+        <id>https://zhangakira.github.io/journal/2024-07-10/</id>
+        
+        <content type="html">&lt;p&gt;　　套用钱钟书先生的一句话：忠厚老实人的恶毒像饭里的沙硕或者出骨鱼片里未净的刺，会给人一种不期待的伤痛。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title></title>
+        <published>2024-05-31T00:00:00+00:00</published>
+        <updated>2024-05-31T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/journal/2024-05-31/" type="text/html"/>
+        <id>https://zhangakira.github.io/journal/2024-05-31/</id>
+        
+        <content type="html">&lt;p&gt;早上，醒来赖床到8:30，突然想到我预约了9:00去市役所取my number卡。赶紧起床，洗脸刷牙换衣服。最近台风来袭，外面淅淅沥沥在下雨。我和王bob说“外面在下雨，要不取消吧，变更下时间”。但其实也不太知道要怎么变更除非打电话联系。我想说的是，我变了，以前我是风雨无阻，一往无前的人，基本不会有这样的想法，不知道从什么时候开始，遇到问题会退缩，下雨天提不起精神，有点难度的事情一拖再拖。。&lt;&#x2F;p&gt;
+&lt;p&gt;他在散文集《日常的深处》中写：“所有的东西都处于二十四小时待机状态，Jo随时点亮、立等可取。所有的技术都不再需要人的照顾，都不配花费心力。”&lt;&#x2F;p&gt;
+&lt;p&gt;王小伟是一位技术哲学研究者，在他看来，消失的“五分钟”反映了我们与日常技术物之间的关系变化。我们与物品不再“交往”，只有使用与被使用。有趣的是，随着高科技逐渐渗入日常生活，很多人开始和AI等虚拟物品建立社交关系。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title></title>
+        <published>2024-05-24T00:00:00+00:00</published>
+        <updated>2024-05-24T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/journal/2024-05-24/" type="text/html"/>
+        <id>https://zhangakira.github.io/journal/2024-05-24/</id>
+        
+        <content type="html">&lt;p&gt;又很久没写日记了。我总是觉得我没有input就很难写出东西来，哪怕是日记。但有时候看王bob的日记，就觉得自己写的也许并不是日记，因为都没把每天发生的事情记下来。很多我们共同经历的事情，他就可以写进日记，我就完全没有这个计划。最近在看《一只鸟接着一只鸟》，是一本关于写作的书，每天坐下来，给自己一个专门的写作时间是很重要的。&lt;&#x2F;p&gt;
+&lt;p&gt;胜利可以解决更衣室的一切问题&lt;&#x2F;p&gt;
+&lt;p&gt;要时刻警惕，你每天做的是小数点前的事情，还是小数点后的事情
+花大量时间做选择，而不是一上来就做事&lt;&#x2F;p&gt;
+&lt;p&gt;求真&lt;&#x2F;p&gt;
+&lt;p&gt;不能用太高的原则组织自己的生活
+不要去问意义
+极限情况和日常生活的关系
+不要过度反思
+个体性 终极的是不可表达的 你的孤独
+不要把你的应当 强加给他人 这就是压迫 保护个体性 就是保护他的生存意义
+个人生存的意义
+我是来教“那一滴水的意义”&lt;&#x2F;p&gt;
+&lt;p&gt;学者陈嘉映说：我们到底要什么，爱什么，信什么？我到底是谁？我是个怎样的人？我要如何好好地度过自己这一生？哲学在一个基本的意义上，就是回答这个问题。&lt;&#x2F;p&gt;
+&lt;p&gt;学语言： 是没有技巧的
+就是掌握每一个 每一句 
+坚持多听、多读、多输入
+大量的重复，&lt;&#x2F;p&gt;
+&lt;p&gt;学数学： 是要把错题弄懂，要不放过
+还要能举一反三、辨识同一种题型、触类旁通
+归纳、总结、系统化&lt;&#x2F;p&gt;
+&lt;p&gt;就如同陶杰在《杀死鹌鹑的少女》中写得那样：“当你老了，回顾一生，就会发觉，什么时候出国读书，什么时候决定做第一份职业，何时选定了对象而恋爱，什么时候结婚，其实都是命运的巨变。只是当时站在三岔路口，眼见风云千樯，你做出选择的那一日，在日记上，相当沉闷和平凡，当时还以为是普通的一天。”&lt;&#x2F;p&gt;
+&lt;p&gt;“想起《颐和园》里女主说，人就是爱吃苦，也爱受罪，不然不会对眼前的事物漠然，而去追求永不可期的东西。”&lt;&#x2F;p&gt;
+&lt;p&gt;类似什么个性签名的东西：“没有什么会被忘记，也没有什么会失去。宇宙自身是一个广大无边的记忆系统。如果你回头看，你就会发现这世界在不断的开始。”&lt;br &#x2F;&gt;
+　　这是《守望灯塔》里的一句话。&lt;&#x2F;p&gt;
+&lt;p&gt;爱情并非是朝夕相对日久生情，爱情就是双方初次相见时的灵光乍现。而这样灵光乍现的瞬间，并不是人人都能遇到的。但不走到人生终点，谁也不知道自己能遇到还是遇不到。他父亲让他珍惜当下的每一刻感受，要他感受到爱的时候，用力去爱。不要等到垂暮之时才发现自己因年少无知而错过的东西，到底有多重要，从此遗憾终生。&lt;&#x2F;p&gt;
+&lt;p&gt;他想从她身上得到的，不只爱情。还想从她身上找到自己消失已久的，对生活的热情和激情。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title>妈妈和我</title>
+        <published>2024-05-20T00:00:00+00:00</published>
+        <updated>2024-05-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/blog/ma-ma-he-wo/" type="text/html"/>
+        <id>https://zhangakira.github.io/blog/ma-ma-he-wo/</id>
+        
+        <content type="html">&lt;p&gt;如果我写东西的话，有哪些母题。母女关系是我写下的第一个。&lt;&#x2F;p&gt;
+&lt;p&gt;上次和豆鸽小羊聊天，说到回国经历的不舒服的事情，讲到我爸妈没让我在家里过年，我非常难过，竟然哭了。他俩都建议我去沟通表达自己的不舒服，小羊还说到如果我一直忍着，这些对我是有伤害的。目前我还没有勇气去沟通这些不舒服，所以我决定，当我感觉有点不舒服的时候，就先写下来。&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;2024-05-12母亲节，我早上给妈妈发了一个红包，1000元。来来回回说了好几次，她都没有要。晚上打电话给她。妈妈说她把我给她钱的事情，告诉了我爸。她说不能要我的钱，因为我也是刚买了房，刚有了家，有很多花钱的地方。她说我爸说应该要，担心你闺女以后不给你了（也许是玩笑话）。她告诉我爸，又把她告诉我爸这事儿告诉了我。有点通过我爸的说法来抬高她的意思。&lt;&#x2F;p&gt;
+&lt;p&gt;她还告诉我，母亲节那天她和邻居们聊天了。一个邻居的女儿给她妈发了500元红包，还送了花，请全家吃了饭。另一个邻居的女儿，也请她妈和她姥姥吃饭了。说我们那现在的孩子们也很重视过母亲节，街上的花都不够卖，母亲节当天吃香辣虾和大盘鸡都需要排长队。还有，邻居们问她“你闺女给发了多少红包”。她说“1000”。她提到的这种实实在在的陪伴，我是很难做到的，但她会不断地提。还有，明明她没有要，但她没有和邻居说。说严重一点是虚荣，说轻一点是好面子。她的讲述有一种牺牲感，让我有点压力。&lt;&#x2F;p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;2024-05-18打电话。妈妈告诉我，她和我爸吵架了，他们五六天没说话了。原因是此前某一天，上午10点多我妈和她的朋友们去了蒙山玩，中午3点多才回来。她到家以后兴高采烈给我爸讲一路的见闻，还关心我爸“吃中午饭了没？”，我爸非常生气，说“吃屎来。”“你就算是去死也得说一声”。他生气我妈临走之前没和他打招呼。我妈解释说，她不知道去蒙山要这么久，而且进山以后没啥信号，接不通电话。她难过我爸说“你就算是去死也得说一声”。妈妈生气地告诉我，说以后无论去哪都不会告诉我爸。想找个打工的地方一个人过。说要不是怕给孩子丢人，现在离了也可以。两口子一起生活，如果我妈今天出门，我爸就是一个甘愿饿着也不会主动下厨的人。最近王bob开始每周做一次饭，我俩基本家务毫无分歧，有时候视频我会和妈妈聊这种新型的家庭模式，我不知道这对他们旧的婚姻关系有多少冲击，我有一些隐忧。&lt;&#x2F;p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;2024-06-09打电话。自从上次爸妈吵完架到现在还不说话。一个多月了。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title></title>
+        <published>2024-05-19T00:00:00+00:00</published>
+        <updated>2024-05-19T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/journal/2024-05-19/" type="text/html"/>
+        <id>https://zhangakira.github.io/journal/2024-05-19/</id>
+        
+        <content type="html">&lt;p&gt;王bob做了烤排骨，用时短，调料少，而且非常好吃。我也是第一次知道，排骨水煮15分钟，然后腌制半个小时，丢烤盘200度，10分钟就熟了。以前如果我做的话，排骨至少要炖1个小时才会脱骨软烂。王bob做饭越来越游刃有余，而且有时候也带给我一些启发。我突然觉得：是不是以前给他的发挥空间太少了。他一直都是这样，很多事情，只要让他去做，他就可以做得很好。我应该更相信他。&lt;&#x2F;p&gt;
+&lt;p&gt;周末网球，打了三场比赛，我突然开窍一样，截击变好了，一起组队的老人也说，有些长球也可以打过去，我这样截击就挺好的。俱乐部每年9月组织合宿，一个阿姨说如果我俩参加的话可以开车载我们过去，聊起来我家住哪里，她说可能她开车经常路过我家门口，昨天她说她留意了，知道我们家了。&lt;&#x2F;p&gt;
+&lt;p&gt;昨天看了&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=IoQSeMoPW8w&amp;amp;ab_channel=%E6%9F%B4%E9%9D%99ChaiJing&quot;&gt;柴静访谈 王夕越和妻子曲桦&lt;&#x2F;a&gt;我特别佩服曲桦的坚毅，她说很多时候她只会想事情应该如何推动，根本没有闲暇伤心难过。如果我遇到同样的事情，我想我根本做不到。大受鼓舞。采访中他们夫妻提到靠着云彩传情表意，恬淡可爱，我想人真的需要信仰。我第一次知道王夕越的故事是在沈诞琦的公众号西西弗斯的健忘症读到&lt;a href=&quot;https:&#x2F;&#x2F;mp.weixin.qq.com&#x2F;s&#x2F;ufB1JeT7SvDvtcwNM8jMhg&quot;&gt;《来自伊朗监狱的长电话》&lt;&#x2F;a&gt;当时非常震撼，王夕越在狱期间，通过电话读书，请教，学习写作。写到这里，我又联想起杨曦光的《牛鬼蛇神录》，非常精彩。&lt;&#x2F;p&gt;
+&lt;p&gt;沈诞琦给王夕越的写作建议：
+比如可以试试插叙插议，而不是按照时间的顺序平铺直叙；比如扩写一些感情和心理的描写，而不是四平八稳地讲完一件事。&lt;&#x2F;p&gt;
+&lt;p&gt;这几天我还在看《解释鸿沟》，云里雾里，也看了陈嘉映老师访谈《从哲学到人生》。等后面再整理。&lt;&#x2F;p&gt;
+&lt;p&gt;本周末还看完了《我的阿勒泰》，爱就是我看见你。“去爱，去生活，去受伤”。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title>三明治</title>
+        <published>2024-05-16T00:00:00+00:00</published>
+        <updated>2024-05-16T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/blog/san-ming-zhi/" type="text/html"/>
+        <id>https://zhangakira.github.io/blog/san-ming-zhi/</id>
+        
+        <content type="html">&lt;p&gt;最近在尝试三明治午餐。我想让生活变简单一点，吃得简单干净，少放各种调料，也希望自己在厨房里的时间少一些。&lt;&#x2F;p&gt;
+&lt;p&gt;我本身特别爱吃面包，有时候觉得一日三餐都吃三明治我也可以活。&lt;&#x2F;p&gt;
+&lt;p&gt;我的三明治一般是这样做的，两个水煮蛋切片，用两片生菜裹起来，夹在土司中间。调料的话只用到蛋黄酱和胡椒粒。&lt;&#x2F;p&gt;
+&lt;p&gt;不过，中午吃了三明治以后，晚上多数时候会很饿，我又会去吃很多其他的东西。这其实是不健康生活，目前还在调整中，希望可以靠吃果蔬解决晚餐。&lt;&#x2F;p&gt;
+&lt;p&gt;我不知道王bob可不可以接受这样吃很久，两个人生活在一起以后，自然就会时时关注对方。感觉自己逐渐对做饭失去了探索的兴致和耐心，前段时间以为这是阶段性的，时间久了自然就好了，但现在看来，好像是我刻意改变，并欣然这样的改变。现在，反倒是期待他每周一次做饭给的惊喜，王bob尝试做日料，烹饪方式习惯蒸煮烤，口味清淡，目前做的我都很喜欢。&lt;&#x2F;p&gt;
+&lt;p&gt;原来我很喜欢做饭这件事也会发生变化。发现这一点的时候，还是有点惊讶的。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title></title>
+        <published>2024-05-16T00:00:00+00:00</published>
+        <updated>2024-05-16T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/journal/2024-05-16/" type="text/html"/>
+        <id>https://zhangakira.github.io/journal/2024-05-16/</id>
+        
+        <content type="html">&lt;p&gt;最近非常焦虑。&lt;&#x2F;p&gt;
+&lt;p&gt;在想是应该换一份工作？还是维持现状，然后找一个副业来做？&lt;&#x2F;p&gt;
+&lt;p&gt;昨晚10点到家，看一个博主访谈90后创业者，看到了快2点。久违失眠到了凌晨4点。然后起床到1楼继续刷小红书到4:30，然后痛恨自己，关掉了手机。冥想了30分钟到5:00。&lt;&#x2F;p&gt;
+&lt;p&gt;回想起来，自从来到日本以后，我的人生就没什么起色了。读研的时候没有认真读书，毕业了也没好好找工作，混沌中度过了快8年，说服自己蜗居在“舒适圈”。最近工作上换组了，有很多不适应，除了对自己失望以外，也不喜欢公司。现在像是进入了全面否定自我的怪圈。王bob总是说我对自己要求很高、说我不能自洽，说我经常矛盾。&lt;&#x2F;p&gt;
+&lt;p&gt;早上叫王bob，聊了快2个小时。最后我决定在小红书上记录生活试试看。工作，烦着呢，就慢慢来，多看看机会。&lt;&#x2F;p&gt;
+&lt;p&gt;已经很久没有这样了，搬家以后我俩过的几乎是老年人的生活，每天10点左右就准备睡了。整整一宿没睡，昏昏沉沉的。&lt;&#x2F;p&gt;
+&lt;p&gt;想起余华说的“从现在开始，你只需要在乎三件事：你自己，你的钱，你内心的平静。生命周期的暗潮只是暂时的，你正在死去，但也将迎来重生。”&lt;&#x2F;p&gt;
+&lt;p&gt;默默给自己鼓劲。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title></title>
+        <published>2024-05-14T00:00:00+00:00</published>
+        <updated>2024-05-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/journal/2024-05-14/" type="text/html"/>
+        <id>https://zhangakira.github.io/journal/2024-05-14/</id>
+        
+        <content type="html">&lt;p&gt;在慢慢养成的好习惯&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;早起1杯温水&lt;&#x2F;li&gt;
+&lt;li&gt;每天喝够2L水&lt;&#x2F;li&gt;
+&lt;li&gt;尽量只在吃饭的时候看视频、影剧&lt;&#x2F;li&gt;
+&lt;li&gt;不把手机带进卧室&lt;&#x2F;li&gt;
+&lt;li&gt;22:00去睡&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;还有一些我觉得好的，应该养成的习惯。&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;每天泡脚&lt;&#x2F;li&gt;
+&lt;li&gt;早上5:50起床&lt;&#x2F;li&gt;
+&lt;li&gt;晚饭尽量简单（比如吃点水果、黄瓜&lt;&#x2F;li&gt;
+&lt;li&gt;早上学英语1小时&lt;&#x2F;li&gt;
+&lt;li&gt;空腹跳绳2000&lt;&#x2F;li&gt;
+&lt;li&gt;每天写日记&lt;&#x2F;li&gt;
+&lt;li&gt;每天做1道leetcode&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title>《关于写作的一些摘录》</title>
+        <published>2023-08-19T00:00:00+00:00</published>
+        <updated>2023-08-19T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/blog/guan-yu-xie-zuo-de-yi-xie-zhai-lu/" type="text/html"/>
+        <id>https://zhangakira.github.io/blog/guan-yu-xie-zuo-de-yi-xie-zhai-lu/</id>
+        
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;对情绪的疗愈，对内心的安顿&lt;&#x2F;strong&gt;，&lt;strong&gt;带给人沉潜内观、自我确认的可能&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;用第三人称写作，直到那个不可抑制的自我跳出来&lt;&#x2F;li&gt;
+&lt;li&gt;写小说像甩鞭子，手一抖，力量自动传递到鞭子的末梢。 推动叙事&lt;&#x2F;li&gt;
+&lt;li&gt;要走路，能走路就尽量走路&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;“从僻静处出发”&lt;&#x2F;strong&gt;，&lt;strong&gt;你要找到你身体中那个更安静的自我，写作要从那个安静的地方出发。&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;让你的感知界面发生变化，我们每天调试自己的感知界面，以应对生活和工作。&lt;&#x2F;li&gt;
+&lt;li&gt;自我决定的孤独&lt;&#x2F;li&gt;
+&lt;li&gt;写作可以让我们变得迟钝一点儿，同时又敏锐一点儿，因为人的第一反应是不值得写的，你最初的激愤和屈辱，都得沉淀一下，对写作者来说，好事和坏事都是素材，所以发生了一些坏事，也能坦然面对。&lt;&#x2F;li&gt;
+&lt;li&gt;处理时间，人物，事件，文字，写作练习。 比如，设置三个地点，家、加油站、超市，写一个段落，让角色去往这三个地方，&lt;strong&gt;这就是让你寻找叙事的推动力，你要让一个角色行动起来，他的行动要有内在的驱动。&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;作家一半以上的写作时间都花在处理开头25%那部分。这个秘密，我们在阅读中能感受到，作者在展开叙述那部分往往是最迷人的，比如最近很流行的一本书，《她来自马里乌波尔》。&lt;&#x2F;li&gt;
+&lt;li&gt;改变感知界面，对文字和阅读都再敏感一些，调试到自己能进入一个相对安静的写作状态，这大概就是“基本写作法”的“基本”所在。&lt;&#x2F;li&gt;
+&lt;li&gt;任何伟大的头脑都是雌雄同体的&lt;&#x2F;li&gt;
+&lt;li&gt;任何写作者，念念不忘自己的性别，都是致命的。&lt;&#x2F;li&gt;
+&lt;li&gt;以超越性别的眼光，来看待世间万事万物，以超越性别的角度，来追求真理&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;语言温柔&lt;&#x2F;li&gt;
+&lt;li&gt;避免外来语&lt;&#x2F;li&gt;
+&lt;li&gt;短句，留余韵&lt;&#x2F;li&gt;
+&lt;li&gt;写亲眼所见，为心倾诉&lt;&#x2F;li&gt;
+&lt;li&gt;重要的事重复&lt;&#x2F;li&gt;
+&lt;li&gt;不要尝试说服，也不自我满足&lt;&#x2F;li&gt;
+&lt;li&gt;为一个人而写&lt;&#x2F;li&gt;
+&lt;li&gt;随意涂写的秘密笔记和乱七八糟的文档，这些都是你独享的快乐&lt;&#x2F;li&gt;
+&lt;li&gt;热爱生活，让你的精神自由而疯狂，既是痴人，也是圣者。&lt;&#x2F;li&gt;
+&lt;li&gt;你感受到的那些东西总会找到他们的表达形式。&lt;&#x2F;li&gt;
+&lt;li&gt;从尽可能深入的地方激发出来，从心灵的最深处不受限地写出你所想&lt;&#x2F;li&gt;
+&lt;li&gt;个人不可名状的想象力，让想象激起你心中的悸动&lt;&#x2F;li&gt;
+&lt;li&gt;不要强求诗意化，去描述事物本来的样子&lt;&#x2F;li&gt;
+&lt;li&gt;在恍惚的迷乱中眼前之物似是梦中之景&lt;&#x2F;li&gt;
+&lt;li&gt;不去顾虑文学、语法和句法的限制&lt;&#x2F;li&gt;
+&lt;li&gt;做个像普鲁斯特一样沉迷于慵懒时光的老人&lt;&#x2F;li&gt;
+&lt;li&gt;以内心的独白，诉说世间的真实故事&lt;&#x2F;li&gt;
+&lt;li&gt;在回忆与惊叹中为自己写作&lt;&#x2F;li&gt;
+&lt;li&gt;从最精炼的中心点着手，在语言之海中畅游&lt;&#x2F;li&gt;
+&lt;li&gt;努力描绘那些在脑海中流淌的想法&lt;&#x2F;li&gt;
+&lt;li&gt;当你卡壳时，不要纠结个别单词，而是去更好的感受整体的画面&lt;&#x2F;li&gt;
+&lt;li&gt;那些在你脑海里闪闪发光的每一天都应该被记住&lt;&#x2F;li&gt;
+&lt;li&gt;不要因为你的经历、语言和拥有的知识而感到恐惧或羞愧&lt;&#x2F;li&gt;
+&lt;li&gt;让世界真实地看到你眼中的它&lt;&#x2F;li&gt;
+&lt;li&gt;书式电影是文字的影像以及视觉表达形式&lt;&#x2F;li&gt;
+&lt;li&gt;赞美那些在荒凉而残忍的孤寂中生活的角色&lt;&#x2F;li&gt;
+&lt;li&gt;创作要狂乱无章，回归本我。越疯狂越好&lt;&#x2F;li&gt;
+&lt;li&gt;做俗世电影的导演和编剧&lt;&#x2F;li&gt;
+&lt;li&gt;既要融入他者的世界，又要时刻提防融化在他者的世界里，时刻准备抽离&lt;&#x2F;li&gt;
+&lt;li&gt;带入先入为主的道德立场，这种立场以某种关怀和亲近感的形式出现，可能会蒙蔽自己对经验的认识，得出一些片面和偏见的结论&lt;&#x2F;li&gt;
+&lt;li&gt;你是你所读过的所有书的总结&lt;&#x2F;li&gt;
+&lt;li&gt;写作是个痛苦与快乐并存的过程，痛苦在于要集中除去路上的杂草，开出一条清晰可见的小径，并且在小径四周种上奇花异草，让路人心旷神怡，快乐在于这个似乎是种忘我的创造性劳动，劳动成果就是逻辑与表达的美感和新鲜感&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title>吵架</title>
+        <published>2023-08-17T00:00:00+00:00</published>
+        <updated>2023-08-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/blog/chao-jia/" type="text/html"/>
+        <id>https://zhangakira.github.io/blog/chao-jia/</id>
+        
+        <content type="html">&lt;p&gt;早上因为做家事大吵了一架。&lt;&#x2F;p&gt;
+&lt;p&gt;生活在一起快三年了，我们依然达不成共识。&lt;&#x2F;p&gt;
+&lt;p&gt;我不能忍受他眼里没有活，而且完全不能变通。他认为我所有的指摘都是在教他做人。&lt;&#x2F;p&gt;
+&lt;p&gt;现在只有我们两个人，需要配合去完成的事情其实没有那么多。面对将来，我还是有很多焦虑的。&lt;&#x2F;p&gt;
+&lt;p&gt;家事方面，我总是自恋得认为我要比这个世界上90%以上的同龄人都做得好。所以自然而然认为只要他按我说的去做，肯定没有错。而恰恰问题就出在这里。凭什么，要按照你说的去做。凭什么，你就是标准。&lt;&#x2F;p&gt;
+&lt;p&gt;还有，也许他已经在努力地去试着按照我说的去做，但在这个过程中，我又希望他能变通。&lt;&#x2F;p&gt;
+&lt;p&gt;今天早上起来，水池里一大堆没有刷的碗。我烤上面包以后就去洗碗（平常大部分时候都是他洗），太专注刷碗了，面包烤糊了（好气）。刷了很久，碗还是有很多。根本腾不出手去干别的。在这个过程中，他煮了咖啡站在旁边等着。当自己在忙碌，而他站在边上不知道做什么的时候，就会怒火中生。我就让他去切一下香蕉，但是厨房太挤了，又有很多水渍，他正要开始切香蕉的时候，我说先把洗好的碗收起来，擦干台面的水渍再去干别的（我的语气不太好，觉得这理所当然，但他想不到）。这时候，咖啡已经煮好了，碗也洗差不多了。我觉得他可以先去冲咖啡。我顺手切香蕉。&lt;&#x2F;p&gt;
+&lt;p&gt;在我看来这就是变通，互相配合。&lt;&#x2F;p&gt;
+&lt;p&gt;而他认为，我在指挥他干这干那，在我吵吵的时候，他忘记了自己煮的咖啡，他不得思考。&lt;&#x2F;p&gt;
+&lt;p&gt;我觉得好笑，大脑长在你自己身上不是吗？&lt;&#x2F;p&gt;
+&lt;p&gt;突然想到，也许是因为我主导了厨房里的一切，他不甘心？&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh-CN">
+        <title>尝试教日语</title>
+        <published>2023-08-11T00:00:00+00:00</published>
+        <updated>2023-08-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zhangakira.github.io/blog/chang-shi-jiao-ri-yu/" type="text/html"/>
+        <id>https://zhangakira.github.io/blog/chang-shi-jiao-ri-yu/</id>
+        
+        <content type="html">&lt;p&gt;最近开始教张恩玮学日语发音。&lt;&#x2F;p&gt;
+&lt;p&gt;我开始学着做课件，尝试怎么样能让课堂生动有趣，学着不是努力去教，而是有意识地和他互动。我尽可能找一些日语资料，就地取材，利用好身边的资源。&lt;&#x2F;p&gt;
+&lt;p&gt;目前用三天的时间学完了五十音图，40分钟1个课时，大概花了5个课时。&lt;&#x2F;p&gt;
+&lt;p&gt;跟着我把发音学完，我希望他能读写假名，记住100个单词，学会一些简单的问候语，可以做一个简短的自我介绍。&lt;&#x2F;p&gt;
+&lt;p&gt;我想要做到的一件事是：一定要避免让他产生学英语时候的那种小痛苦。日语是好玩的，有趣的，能坚持的。&lt;&#x2F;p&gt;
+&lt;p&gt;如果张恩玮想学的话，我想一直教他。开学以后，就每周六学一次，大概2个课时。&lt;&#x2F;p&gt;
+&lt;p&gt;张恩玮在整个学习的过程中，让我看到了他的聪明，可能和我平常印象中的他还是有一些差异的，实话说，我觉得他有成为优等生的潜质。&lt;&#x2F;p&gt;
+&lt;p&gt;今年张景婷7岁，我也希望她也跟着学，但是联系了二哥，三天过去了，也没有任何回应。很多事情，不一定是他和我可以决定的。&lt;&#x2F;p&gt;
+&lt;p&gt;最后，其实我想说，教日语这个并不是我的突发奇想，是一个同事问我愿不愿意，我才开始去想要不要试试，我很感谢张恩玮，愿意当那个和我一起成长的学生。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,37 @@
+
+ul {
+  padding-left: 1em;
+}
+
+time {
+  font-family: Jost;
+  font-weight: 400;
+}
+
+main .pagination {
+  clear: both;
+  font-family: Athelas, STHeiti, Microsoft Yahei, serif;
+  margin: 2rem 0;
+}
+
+.next,
+.previous {
+  font-weight: 600;
+  transition: transform 0.3s ease-out;
+}
+
+.next {
+  float: right;
+}
+
+.next:hover {
+  transform: translateX(4px);
+}
+
+.previous {
+  float: left;
+}
+
+.previous:hover {
+  transform: translateX(-4px);
+}
