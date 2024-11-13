@@ -1,11 +1,15 @@
 {% extends "base.html" %}
 {% import "macros/article.html" as post_macros %}
 
+{% block extra_head %}
+<link rel="stylesheet" href="{{ get_url(path="css/custom.css", trailing_slash=false) }}">
+{% endblock extra_head %}
 {% block header %}
 <h1>{{ section.title }}</h1>
 {% endblock header %}
 
 {% block content %}
+<a href="/">Home</a>
 {{ section.content | safe }}
 
 {% if paginator %}

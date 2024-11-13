@@ -1,63 +1,6 @@
-:root {
-  --body-width: 992px;
-  --text-width: 620px;
-  --bg-body: white;
-  --bg-block: #f9f9f9;
-  --border-color: #ddd;
-  --box-shadow: 5px 5px 5px #eee;
-}
-
-body {
-  font-family: "Linden Hill", "Alegreya", "Palatino Linotype", "Book Antiqua",
-    Palatino, Optima-Regular, "source-han-serif-sc", monospace;
-  line-height: 1.5;
-  letter-spacing: 1.2px;
-}
-
-nav a {
-  padding: 5px;
-  border-bottom: none;
-}
-
-a {
-  text-decoration: none;
-  border-bottom: 1px dashed;
-  color: var(--fgColor)
-}
-
-article {
-  margin-left: 1.5em;
-}
 
 ul {
   padding-left: 1em;
-}
-
-ul li::before {
-  content: "» ";
-  color: var(--metaColor);
-}
-
-h1::before,
-h2::before,
-h3::before,
-h4::before,
-h5::before,
-h6::before {
-  font-family: Jost;
-  font-weight: lighter;
-  color: var(--dimGrey);
-}
-.navBar {
-  margin-bottom: 1em;
-  border-bottom: 1px solid;
-  font-family: Jost, Optima, Candara, sans-serif;
-  text-transform: uppercase;
-}
-
-.selected {
-  border-bottom: 5px solid;
-  margin-bottom: -5px;
 }
 
 time {
